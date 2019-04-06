@@ -1,0 +1,19 @@
+---
+label: performance
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: publish_date
+  label: publish_date
